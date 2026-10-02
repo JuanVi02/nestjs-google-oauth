@@ -18,7 +18,7 @@ Backend desarrollado con NestJS para implementar autenticación mediante Google 
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/JuanVi02/nestjs-google-oauth
 cd nestjs-google-oauth
 ```
 
